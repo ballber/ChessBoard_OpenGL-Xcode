@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  ChessBoardOpenGL
+//  ChessBoardOpenGL for Xcode
 //
 //  Created by Josep B on 3/11/18.
 //  Copyright © 2018 Universitat de Lleida. All rights reserved.
